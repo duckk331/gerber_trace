@@ -1,0 +1,22 @@
+{
+  "name": "gerber_trace",
+  "version": "1.0.0",
+  "description": "npm package to manage gerber file",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duckk331/gerber_trace.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "darshan shah",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/duckk331/gerber_trace/issues"
+  },
+  "homepage": "https://github.com/duckk331/gerber_trace#readme"
+}
